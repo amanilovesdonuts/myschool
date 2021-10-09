@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    
+}
+
+html{
+  scroll-behavior: smooth;  
+    }
+.school{
+    width: 100%
+}
+
+#marqueeStyle{
+    background-color:#fcba03;
+    font-size:20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.heading{
+    font-family: 'Cabin', sans-serif;
+}
+
+.img-responsive{
+    border-radius: 5px;
+}
+
+
